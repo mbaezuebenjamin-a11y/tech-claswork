@@ -1,0 +1,6 @@
+{
+  "name": "Vesper — Modern Editorial Journal",
+  "description": "A contemporary luxury editorial blog and visual journal across Home, Blog, Contact, Sign In, and Sign Up pages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
